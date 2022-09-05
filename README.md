@@ -64,11 +64,11 @@
 
 
 <item>
-<title>[COLOR silver][B]  [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
+<title>[COLOR silver][B] LA BREA - A TERRA PERDIDA [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZIMBKSXEQELEIPWHQM2L355QPRVZC7NF</link>
+<thumbnail>https://baixakifilmes.net/uploads/46/140057152763108d7aade1c.jpg</thumbnail>
 <fanart></fanart>
-<info></info>
+<info>Quando um buraco imenso se abre misteriosamente em Los Angeles, acaba separando uma família. Quando parte da família se encontra em um mundo primitivo inexplicável, ao lado de estranhos, eles devem trabalhar para sobreviver e descobrir o mistério de onde estão e se há um caminho de volta para casa.</info>
 </item> 
 *************************************
 
