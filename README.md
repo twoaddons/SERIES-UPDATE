@@ -74,6 +74,29 @@
 
 
 <item>
+<title>[COLOR silver][B] Mike - Além de Tyson  [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:J4JWDKURVKYUDQNBDJXTGHTV3GQIBBMB</link>
+<thumbnail>https://abutretorrents.com/imagens/mike-alem-de-tyson-1-temporada-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info> A série irá explorar a vida e a carreira selvagem, trágica e controversa do campeão dos pesos pesados ​​Mike Tyson - uma das figuras mais polarizadoras da cultura esportiva.</info>
+</item> 
+*************************************
+
+<item>
+<title>[COLOR silver][B] CAVALEIRO DA LUA [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4f5157fd9f93669e26a925c916d95cf6ae5ea446$nome=EPISODIO 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2448073ac35654f3c77fb59f6e6d9ad6b348ed7b$nome=EPISODIO 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5d245ce057a454b95bde687e54d7f172db81d674$nome=EPISODIO 3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8407ae43d57a1ef196530da335d4aab26e9eb150$nome=EPISODIO 4</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e72c070fa13e2689102c917537334ceaadae646$nome=EPISODIO 5</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7b72ef407d05f76134209fb21401c7bad222f107$nome=EPISODIO 6</link>
+<thumbnail>https://baixakifilmes.net/uploads/53/122184402663108f19e0cfa.jpg</thumbnail>
+<fanart></fanart>
+<info>Steven Grant (Oscar Isaac), atendente da loja de presentes de um museu, é atormentado por apagões e memórias de outra vida. Steven descobre que tem transtorno dissociativo de identidade e compartilha um corpo com o mercenário Marc Spector que, aparentemente, guarda muitos segredos, inclusive o fato de ser o avatar terreno Khonshu, o deus egípcio da lua. Baseada no personagem homônimo das histórias em quadrinhos da Marvel Comics, criado por Doug Moench e Don Perlin. • 6 episódios.</info>
+</item> 
+*************************************
+
+<item>
 <title>[COLOR silver][B]  [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail></thumbnail>
@@ -90,4 +113,41 @@
 <info></info>
 </item> 
 *************************************
+
+<item>
+<title>[COLOR silver][B]  [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item> 
+*************************************
+
+<item>
+<title>[COLOR silver][B]  [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item> 
+*************************************
+
+<item>
+<title>[COLOR silver][B]  [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item> 
+*************************************
+
+<item>
+<title>[COLOR silver][B]  [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item> 
+*************************************
+
 
