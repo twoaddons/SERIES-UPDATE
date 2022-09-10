@@ -131,11 +131,11 @@
 *************************************
 
 <item>
-<title>[COLOR silver][B]  [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
+<title>[COLOR silver][B] Resident Alien - 1ª TEMPORADA LEGENDADO [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c5d00f3015dd8a33cbf94ca3c57800b53f2e0742$nome=Resident Alien T1</link>
+<thumbnail>https://abutretorrents.com/imagens/resident-alien-1-temporada-legendada-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart></fanart>
-<info></info>
+<info>O alienígena que caiu no acidente, Harry, assume a identidade de um médico de uma pequena cidade do Colorado. Chegando com uma missão secreta, ele começa a viver uma vida simples... mas as coisas ficam um pouco complicadas quando ele tenta resolver um assassinato local e percebe que precisa ser assimilado em seu novo mundo. Ao fazer isso, ele começa a lutar com o dilema moral de sua missão e a fazer as grandes questões da vida, como: Vale a pena salvar os seres humanos? E por que eles dobram a pizza antes de comer?</info>
 </item> 
 *************************************
 
