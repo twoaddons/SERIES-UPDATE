@@ -47,6 +47,16 @@
 
 
 <item>
+<title>[COLOR silver][B] Resident Alien - 1ª TEMPORADA LEGENDADO [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c5d00f3015dd8a33cbf94ca3c57800b53f2e0742</link>
+<thumbnail>https://abutretorrents.com/imagens/resident-alien-1-temporada-legendada-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart></fanart>
+<info>O alienígena que caiu no acidente, Harry, assume a identidade de um médico de uma pequena cidade do Colorado. Chegando com uma missão secreta, ele começa a viver uma vida simples... mas as coisas ficam um pouco complicadas quando ele tenta resolver um assassinato local e percebe que precisa ser assimilado em seu novo mundo. Ao fazer isso, ele começa a lutar com o dilema moral de sua missão e a fazer as grandes questões da vida, como: Vale a pena salvar os seres humanos? E por que eles dobram a pizza antes de comer?</info>
+</item> 
+
+
+
+<item>
 <title>[COLOR silver][B] Compulsion [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MPUUEKA5VRAML442YOWPBVIBLPGWRRML</link>
 <thumbnail>https://abutretorrents.com/imagens/compulsion-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
@@ -127,15 +137,6 @@
 <thumbnail>https://baixakifilmes.net/uploads/24/102229922163106c3c9af54.jpg</thumbnail>
 <fanart></fanart>
 <info>Geralt de Rívia (Henry Cavill), um solitário caçador de monstros, luta para achar seu lugar num mundo onde pessoas se provam mais perversas do que criaturas. Mas quando o destino o leva? uma poderosa feiticeira (Anya Chalotra) e uma jovem princesa (Freya Allan) com um segredo perigoso, os três precisam aprender a navegar pelo Continente juntos.</info>
-</item> 
-*************************************
-
-<item>
-<title>[COLOR silver][B] Resident Alien - 1ª TEMPORADA LEGENDADO [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c5d00f3015dd8a33cbf94ca3c57800b53f2e0742$nome=Resident Alien T1</link>
-<thumbnail>https://abutretorrents.com/imagens/resident-alien-1-temporada-legendada-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<fanart></fanart>
-<info>O alienígena que caiu no acidente, Harry, assume a identidade de um médico de uma pequena cidade do Colorado. Chegando com uma missão secreta, ele começa a viver uma vida simples... mas as coisas ficam um pouco complicadas quando ele tenta resolver um assassinato local e percebe que precisa ser assimilado em seu novo mundo. Ao fazer isso, ele começa a lutar com o dilema moral de sua missão e a fazer as grandes questões da vida, como: Vale a pena salvar os seres humanos? E por que eles dobram a pizza antes de comer?</info>
 </item> 
 *************************************
 
