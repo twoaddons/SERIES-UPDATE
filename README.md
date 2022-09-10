@@ -112,7 +112,7 @@
 *************************************
 
 <item>
-<title>[COLOR silver][B] S.W.A.T 1° ATE 4° TEMPORADA [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] S.W.A.T 1° E 2° TEMPORADA [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02DAF67B4B13DA5478638989D705D00000CB508F$nome=S.W.A.T T1</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ed1c364e71950e5e8c9640772a9d0d7f4d8290e0$nome=S.W.A.T T2</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/byFarhK0Wxmf9mSOOR9ZQ31sShJ.jpg</thumbnail>
