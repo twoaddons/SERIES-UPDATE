@@ -122,11 +122,11 @@
 *************************************
 
 <item>
-<title>[COLOR silver][B]  [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
+<title>[COLOR silver][B] The Witcher 1° TEMPORADA [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8F42B9EE5FA466AF782C49F7AD5A59756FAB38CE</link>
+<thumbnail>https://baixakifilmes.net/uploads/24/102229922163106c3c9af54.jpg</thumbnail>
 <fanart></fanart>
-<info></info>
+<info>Geralt de Rívia (Henry Cavill), um solitário caçador de monstros, luta para achar seu lugar num mundo onde pessoas se provam mais perversas do que criaturas. Mas quando o destino o leva? uma poderosa feiticeira (Anya Chalotra) e uma jovem princesa (Freya Allan) com um segredo perigoso, os três precisam aprender a navegar pelo Continente juntos.</info>
 </item> 
 *************************************
 
